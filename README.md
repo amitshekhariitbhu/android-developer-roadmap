@@ -57,10 +57,10 @@
   * Dialogs
   * Toast & Snackbar
 * Storage
- * Shared Preferences
- * File Systems
- * Database
-   * RoomDB
+  * Shared Preferences
+  * File Systems
+  * Database
+    * RoomDB
 * Build
   * Gradle
   * Debug / Release Configuration
