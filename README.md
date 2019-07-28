@@ -125,8 +125,8 @@
      * MVI
      * MVP
 * Unit Testing
-  	  * Local Unit Testing
-  	  * Instrumentation Testing
+  	 * Local Unit Testing
+  	 * Instrumentation Testing
 * Firebase
      * FCM
      * Crashlytics
