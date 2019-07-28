@@ -62,20 +62,20 @@
  * Database
    * RoomDB
 * Build
- * Gradle
- * Debug / Release Configuration
+  * Gradle
+  * Debug / Release Configuration
 * Threading 
   * Threads
   * Handler / Looper
 * Debugging
- * Memory profiling
- * Logging
- * Systrace
- * Exceptions
- * Error Handling
+  * Memory profiling
+  * Logging
+  * Systrace
+  * Exceptions
+  * Error Handling
 * Memory Leak
- * Detecting and Fixing Memory Leaks
- * Context
+  * Detecting and Fixing Memory Leaks
+  * Context
 * 3rd Party Library
   * Image Loading
      * Glide
