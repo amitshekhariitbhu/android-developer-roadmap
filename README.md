@@ -95,7 +95,7 @@
   * Protocol Buffer
 * Android Jetpack
   * Foundation Components
-     * AppCompant
+     * AppCompat
      * Android KTX
      * Multidex
   * Architecture Components
