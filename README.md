@@ -9,6 +9,7 @@
 </p>
 
 ### Note: All the resources to learn all of the above in the roadmap will be provided on [MindOrks Website](https://mindorks.com)
+### All the best tutorials published by MindOrks. [Check here](https://github.com/MindorksOpenSource/best-android-tutorials)
 
 ## Roadmap to learn Android App Development
 * Programming
