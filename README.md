@@ -106,28 +106,35 @@
      * Paging
      * Work Manager
      * Navigation
+     * Room
   * Behaviour Components 
      * Download Manager
      * Media Playback
      * Notification
      * Permissions
-     * Preference
+     * Preferences
      * Sharing
-     * Slice
+     * Slices
   * UI Component
-     * Animation & Transition
+     * Animation & Transitions
      * Android Auto
      * Emoji
      * Palette
      * Android TV
      * Android Wear
+     * Compose
 * Architecture 
      * MVVM
      * MVI
      * MVP
 * Unit Testing
-  	 * Local Unit Testing
-  	 * Instrumentation Testing
+  	 * JUnit
+     * Spek
+     * Mockito
+* Instrumentation Testing
+     * Espresso
+* E2E Testing
+     * Robolectrics
 * Firebase
      * FCM
      * Crashlytics
