@@ -91,8 +91,6 @@
      * RxJava
      * Coroutines
   * GraphQL Client
-     * graphql-java
-     * graphql-kotlin
      * Apollo
      * Hasura
 * Data Format
