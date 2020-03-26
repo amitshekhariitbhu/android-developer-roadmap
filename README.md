@@ -149,6 +149,9 @@
 
 ## [MindOrks](https://mindorks.com)
 
+
+### Learn to build a ride-sharing Android app like Uber, Lyft - [Check here](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app)
+
 ### Found this project useful :heart:
 * Support by clicking the :star: button on the upper right of this page. :v:
 
