@@ -89,7 +89,10 @@
      * Retrofit
   * MultiThreading
      * RxJava
-     * Coroutines 
+     * Coroutines
+  * GraphQL Client
+     * Apollo
+     * Hasura
 * Data Format
   * JSON
      * GSON
