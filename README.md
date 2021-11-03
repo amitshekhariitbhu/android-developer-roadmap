@@ -133,6 +133,7 @@
      * FCM
      * Crashlytics
      * Analytics
+     * Firestore
      * Remote Config
      * App Indexing
      * Dynamic Link
