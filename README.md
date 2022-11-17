@@ -1,16 +1,10 @@
-# Android Developer Roadmap - [MindOrks](https://mindorks.com)
-[![Mindorks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
-[![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
+# Android Developer Roadmap
 
 > A complete roadmap to learn Android App Development. This roadmap will help you in becoming a complete Android Developer.
 
-<p align="center">
-<img alt="Android Developer Roadmap" src="https://raw.githubusercontent.com/MindorksOpenSource/android-developer-roadmap/master/images/android_developer_roadmap.png">
-</p>
+### Note: All the resources to learn all of the concepts in the roadmap will be provided on [Blog by Amit Shekhar](https://amitshekhar.me/blog)
 
-### Note: All the resources to learn all of the above in the roadmap will be provided on [MindOrks Website](https://mindorks.com)
-### All the best tutorials published by MindOrks. [Check here](https://mindorks.com/android-tutorial)
-### Watch the video format. [Check here](https://www.youtube.com/watch?v=kKNgeeL3YOE)
+## **Get Mentorship: [amitshekhar.me](https://amitshekhar.me)**
 
 ## Roadmap to learn Android App Development
 * Programming
@@ -146,19 +140,14 @@
      * Playstore
 * Keep Learning and Improving
 
-
-## [MindOrks](https://mindorks.com)
-
-
-### Learn to build a ride-sharing Android app like Uber, Lyft - [Check here](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app)
+## **Get Mentorship: [amitshekhar.me](https://amitshekhar.me)**
 
 ### Found this project useful :heart:
 * Support by clicking the :star: button on the upper right of this page. :v:
 
-
 ### License
 ```
-   Copyright (C) 2019 MINDORKS NEXTGEN PRIVATE LIMITED
+   Copyright (C) 2022 Amit Shekhar
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
