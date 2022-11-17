@@ -88,6 +88,7 @@
   * MultiThreading
      * RxJava
      * Coroutines
+     * Kotlin Flow API
 * Coroutines - You can learn these topics here: [Learn-Kotlin-Coroutines](https://github.com/amitshekhariitbhu/Learn-Kotlin-Coroutines)
   * coroutines
   * suspend
@@ -97,6 +98,12 @@
   * lifecycleScope, viewModelScope, GlobalScope
   * suspendCoroutine, suspendCancellableCoroutine
   * coroutineScope, supervisorScope
+* Kotlin Flow API - You can learn these topics here: [Learn-Kotlin-Flow](https://github.com/amitshekhariitbhu/Learn-Kotlin-Flow)
+  * Flow Builder, Operator, Collector
+  * flowOn, dispatchers
+  * Operators such as filter, map, zip, flatMapConcat, retry, debounce, distinctUntilChanged, flatMapLatest
+  * Terminal operators
+  * StateFlow, SharedFlow, callbackFlow, channelFlow
 * Data Format
   * JSON
      * GSON
