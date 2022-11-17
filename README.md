@@ -136,10 +136,17 @@
      * Palette
      * Android TV
      * Android Wear
-* Architecture 
+* Common Design Patterns and Architecture 
+     * Builder Pattern
+     * Singleton
+     * Dependency Injection
+     * Factory
+     * Observer
+     * Repository
      * MVVM
-     * MVI
      * MVP
+     * MVI
+     * Clean architecture
 * Unit Testing
   	 * Local Unit Testing
   	 * Instrumentation Testing
