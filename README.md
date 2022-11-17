@@ -61,8 +61,12 @@
   * Gradle
   * Debug / Release Configuration
 * Threading 
-  * Threads
-  * Handler / Looper
+  * Thread
+  * Handler/Looper
+  * ThreadPoolExecutor
+  * RxJava
+  * Coroutines/Flow
+  * WorkManager
 * Debugging
   * Memory profiling
   * Logging
