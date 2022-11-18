@@ -136,6 +136,16 @@
      * Palette
      * Android TV
      * Android Wear
+* Compose
+     * State: remember, rememberSaveable, MutableState
+     * Recomposition
+     * State hoisting
+     * Side-effects
+     * Modifier
+     * Theme
+     * Layout, List
+     * Gestures, Animation
+     * CompositionLocal
 * Common Design Patterns and Architecture 
      * Builder Pattern
      * Singleton
