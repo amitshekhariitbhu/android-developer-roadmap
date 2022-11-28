@@ -1,3 +1,7 @@
+<p align="center">
+<img alt="Android Developer Roadmap" src="https://raw.githubusercontent.com/amitshekhariitbhu/android-developer-roadmap/master/assets/android-developer-roadmap.png">
+</p>
+
 # Android Developer Roadmap
 
 > A complete roadmap to learn Android App Development. This roadmap will help you in becoming a complete Android Developer.
