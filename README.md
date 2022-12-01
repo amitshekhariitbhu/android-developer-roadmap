@@ -113,6 +113,15 @@
      * GSON
   * Flat Buffer
   * Protocol Buffer
+* Networking
+  * GET/POST/DELETE/PUT/PATCH
+  * OkHttp, Interceptor
+  * Caching
+  * Retrofit with Coroutines/Flow
+  * Multipart request
+  * Read, Write Timeout
+  * OAuth 2.0 - Refresh and Access Token
+  * HTTP Status Codes
 * Android Jetpack
   * Foundation Components
      * AppCompat
