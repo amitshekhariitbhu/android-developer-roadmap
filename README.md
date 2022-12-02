@@ -93,7 +93,7 @@
      * RxJava
      * Coroutines
      * Kotlin Flow API
-* Coroutines - You can learn these topics here: [Learn-Kotlin-Coroutines](https://github.com/amitshekhariitbhu/Learn-Kotlin-Coroutines)
+* Coroutines - You can learn these topics here: [Master Kotlin Coroutines](https://amitshekhar.me/blog/kotlin-coroutines)
   * coroutines
   * suspend
   * launch, async-await, withContext
@@ -102,7 +102,7 @@
   * lifecycleScope, viewModelScope, GlobalScope
   * suspendCoroutine, suspendCancellableCoroutine
   * coroutineScope, supervisorScope
-* Kotlin Flow API - You can learn these topics here: [Learn-Kotlin-Flow](https://github.com/amitshekhariitbhu/Learn-Kotlin-Flow)
+* Kotlin Flow API - You can learn these topics here: [Kotlin Flow API](https://amitshekhar.me/blog/flow-api-in-kotlin)
   * Flow Builder, Operator, Collector
   * flowOn, dispatchers
   * Operators such as filter, map, zip, flatMapConcat, retry, debounce, distinctUntilChanged, flatMapLatest
