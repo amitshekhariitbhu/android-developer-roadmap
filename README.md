@@ -107,6 +107,7 @@
   * flowOn, dispatchers
   * Operators such as filter, map, zip, flatMapConcat, retry, debounce, distinctUntilChanged, flatMapLatest
   * Terminal operators
+  * Cold Flow vs Hot Flow: [Cold Flow vs Hot Flow](https://amitshekhar.me/blog/cold-flow-vs-hot-flow)
   * StateFlow, SharedFlow, callbackFlow, channelFlow
 * Data Format
   * JSON
