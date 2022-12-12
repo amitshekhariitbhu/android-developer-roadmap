@@ -6,9 +6,9 @@
 
 > A complete roadmap to learn Android App Development. This roadmap will help you in becoming a complete Android Developer.
 
-### Note: All the resources to learn all of the concepts in the roadmap will be provided on [Blog by Amit Shekhar](https://amitshekhar.me/blog)
-
-## **Get Mentorship: [amitshekhar.me](https://amitshekhar.me)**
+### Note: All the resources to learn all of the concepts in the roadmap will be provided on:
+* [Blog by Amit Shekhar](https://amitshekhar.me/blog)
+* [YouTube Channel by Amit Shekhar](https://www.youtube.com/@amitshekhar)
 
 ## Roadmap to learn Android App Development
 * Programming
