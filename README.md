@@ -10,6 +10,17 @@
 * [Blog by Amit Shekhar](https://amitshekhar.me/blog)
 * [YouTube Channel by Amit Shekhar](https://www.youtube.com/@amitshekhar)
 
+## About me
+
+Hi, I am [**Amit Shekhar**](https://amitshekhar.me), I have mentored many developers, and their efforts landed them high-paying tech jobs, helped many tech companies in solving their unique problems, and created many open-source libraries being used by top companies. I am passionate about sharing knowledge through open-source, blogs, and videos.
+
+You can connect with me on:
+
+- [Twitter](https://twitter.com/amitiitbhu)
+- [YouTube](https://www.youtube.com/@amitshekhar)
+- [LinkedIn](https://www.linkedin.com/in/amit-shekhar-iitbhu)
+- [GitHub](https://github.com/amitshekhariitbhu)
+
 ## Roadmap to learn Android App Development
 * Programming
    * Java
