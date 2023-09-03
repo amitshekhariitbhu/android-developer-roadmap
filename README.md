@@ -202,7 +202,7 @@ You can connect with me on:
      * Playstore
 * Keep Learning and Improving
 
-## **Get Mentorship: [amitshekhar.me](https://amitshekhar.me)**
+## **Get High Paying Tech Job: [amitshekhar.me](https://amitshekhar.me)**
 
 ### Found this project useful :heart:
 * Support by clicking the :star: button on the upper right of this page. :v:
