@@ -189,6 +189,7 @@ You can connect with me on:
      * FCM
      * Crashlytics
      * Analytics
+     * Firestore
      * Remote Config
      * App Indexing
      * Dynamic Link
