@@ -97,6 +97,7 @@ You can connect with me on:
      * Picasso
   * Dependency Injection
      * Dagger
+     * Hilt
   * Networking
      * Fast Android Networking Library
      * Retrofit
