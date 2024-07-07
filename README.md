@@ -7,12 +7,12 @@
 > A complete roadmap to learn Android App Development. This roadmap will help you in becoming a complete Android Developer.
 
 ### Note: All the resources to learn all of the concepts in the roadmap will be provided on:
-* [Blog by Amit Shekhar](https://amitshekhar.me/blog)
+* [Outcome School Blog](https://outcomeschool.com/blog)
 * [YouTube Channel by Amit Shekhar](https://www.youtube.com/@amitshekhar)
 
 ## About me
 
-Hi, I am [**Amit Shekhar**](https://amitshekhar.me), I have mentored many developers, and their efforts landed them high-paying tech jobs, helped many tech companies in solving their unique problems, and created many open-source libraries being used by top companies. I am passionate about sharing knowledge through open-source, blogs, and videos.
+Hi, I am Amit Shekhar, Co-Founder @ [Outcome School](https://outcomeschool.com) • IIT 2010-14 • I have taught and mentored many developers, and their efforts landed them high-paying tech jobs, helped many tech companies in solving their unique problems, and created many open-source libraries being used by top companies. I am passionate about sharing knowledge through open-source, blogs, and videos.
 
 You can connect with me on:
 
@@ -28,9 +28,9 @@ You can connect with me on:
 * Android Studio
    * Android Studio IDE Overview
    * Project Structure
-   	   * Java/Kotlin
-   	   * XML
-   	   * .gradle files
+       * Java/Kotlin
+       * XML
+       * .gradle files
 * Android Component
    * Activity
      * Activity Lifecycle
@@ -47,7 +47,7 @@ You can connect with me on:
   * View
       * Button, ImageView, TextView, EditText etc
   * ViewGroup
-  	   * LinearLayout, RelativeLayout, FrameLayout, ConstraintLayout
+       * LinearLayout, RelativeLayout, FrameLayout, ConstraintLayout
 * Dynamic User Interface
    * RecyclerView
    * ViewPager
@@ -104,7 +104,7 @@ You can connect with me on:
      * RxJava
      * Coroutines
      * Kotlin Flow API
-* Coroutines - You can learn these topics here: [Master Kotlin Coroutines](https://amitshekhar.me/blog/kotlin-coroutines)
+* Coroutines - You can learn these topics here: [Master Kotlin Coroutines](https://outcomeschool.com/blog/kotlin-coroutines)
   * coroutines
   * suspend
   * launch, async-await, withContext
@@ -113,13 +113,13 @@ You can connect with me on:
   * lifecycleScope, viewModelScope, GlobalScope
   * suspendCoroutine, suspendCancellableCoroutine
   * coroutineScope, supervisorScope
-* Kotlin Flow API - You can learn these topics here: [Kotlin Flow API](https://amitshekhar.me/blog/flow-api-in-kotlin)
+* Kotlin Flow API - You can learn these topics here: [Kotlin Flow API](https://outcomeschool.com/blog/flow-api-in-kotlin)
   * Flow Builder, Operator, Collector
   * flowOn, dispatchers
   * Operators such as filter, map, zip, flatMapConcat, retry, debounce, distinctUntilChanged, flatMapLatest
   * Terminal operators
-  * Cold Flow vs Hot Flow: [Cold Flow vs Hot Flow](https://amitshekhar.me/blog/cold-flow-vs-hot-flow)
-  * [StateFlow, SharedFlow](https://amitshekhar.me/blog/stateflow-and-sharedflow), callbackFlow, channelFlow
+  * Cold Flow vs Hot Flow: [Cold Flow vs Hot Flow](https://outcomeschool.com/blog/cold-flow-vs-hot-flow)
+  * [StateFlow, SharedFlow](https://outcomeschool.com/blog/stateflow-and-sharedflow), callbackFlow, channelFlow
 * Data Format
   * JSON
      * GSON
@@ -183,8 +183,8 @@ You can connect with me on:
      * MVI
      * Clean architecture
 * Unit Testing
-  	 * Local Unit Testing
-  	 * Instrumentation Testing
+     * Local Unit Testing
+     * Instrumentation Testing
 * Firebase
      * FCM
      * Crashlytics
@@ -202,14 +202,14 @@ You can connect with me on:
      * Playstore
 * Keep Learning and Improving
 
-## **Get High Paying Tech Job: [amitshekhar.me](https://amitshekhar.me)**
+## **Get High Paying Tech Job: [Outcome School](https://outcomeschool.com)**
 
 ### Found this project useful :heart:
 * Support by clicking the :star: button on the upper right of this page. :v:
 
 ### License
 ```
-   Copyright (C) 2022 Amit Shekhar
+   Copyright (C) 2024 Amit Shekhar
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
