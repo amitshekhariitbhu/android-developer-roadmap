@@ -69,6 +69,7 @@ You can connect with me on:
   * Toast & Snackbar
 * Storage
   * Shared Preferences
+  * DataStore
   * File Systems
   * Database
     * RoomDB
