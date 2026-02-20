@@ -215,6 +215,7 @@ Guided, motivated, and inspired them to aim higher and achieve more.
      * FCM
      * Crashlytics
      * Analytics
+     * Firestore
      * Remote Config
      * App Indexing
      * Dynamic Link
