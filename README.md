@@ -123,6 +123,7 @@ Guided, motivated, and inspired them to aim higher and achieve more.
      * Picasso
   * Dependency Injection
      * Dagger
+     * Hilt
   * Networking
      * Fast Android Networking Library
      * Retrofit
